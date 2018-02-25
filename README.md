@@ -1,5 +1,5 @@
 # bot-seed
-basic seed framework for the chat bot 
+basic seed framework for the chat bot <br/>
 note: if you need more intents, please add them under "intents.json" file
 <u>Instructions to run the bot framework</u>
 <ul>
